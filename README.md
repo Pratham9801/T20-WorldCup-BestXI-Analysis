@@ -24,6 +24,10 @@ Using insights from our analysis, we identify the **Best Playing XI across all c
 
 <img width="930" height="527" alt="image" src="https://github.com/user-attachments/assets/5d6714a9-d9f6-4556-a96f-3e639bed17d6" />
 
+
+<img width="930" height="524" alt="image" src="https://github.com/user-attachments/assets/1ed732f4-169d-4f6a-9285-dfd4f5a96cfe" />
+
+
 ---
 
 ## Insights / Key Findings
@@ -38,6 +42,7 @@ Using insights from our analysis, we identify the **Best Playing XI across all c
 - Expected bowling performance: restrict opponents to ~145 runs
 
 <img width="931" height="522" alt="image" src="https://github.com/user-attachments/assets/27bc2224-a96e-4f9a-af2b-eeeb0ba9a46f" />
+
 
 
 
